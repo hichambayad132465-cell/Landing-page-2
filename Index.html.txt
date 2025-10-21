@@ -1,0 +1,54 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Get Your Free Gift Card!</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      background-color: #fff;
+      color: #333;
+      padding: 30px;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 400px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    .container img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #28a745;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>🎁 Claim Your Free Gift Card</h2>
+    <img src="https://i.imgur.com/qkdpN.jpg" alt="Gift Card" /><p>Click the button below to unlock your reward!</p>
+    <a href="https://www.ogads.com/" class="btn">Unlock Now</a>
+  </div>
+</body>
+</html>
+```
